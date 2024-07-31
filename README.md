@@ -1,6 +1,6 @@
 # ExcelMacroUtilities
 
-Excelマクロ保管用
+Excel便利マクロ保管用
 
 ## Modules
 
